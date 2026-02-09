@@ -32,7 +32,7 @@ This project implements state-of-the-art computer vision techniques using DeepLa
  ## Complete Body Part Annotation
 Our model tracks 25 anatomical landmarks per animal with high precision:
 
-# config.yaml - Complete Wistar Rat Body Parts (25 points)
+# Complete Wistar Rat Body Parts (25 points)
 bodyparts:
   # Head region
   - nose_tip
