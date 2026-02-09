@@ -73,7 +73,7 @@ bodyparts:
     
 Watch how all 25 body parts are tracked simultaneously
   
-  ** Video Available** [Drive](https://drive.google.com/file/d/1p9uDeAE1fcUKeLvf4auumHl_ksTOklIN/view?usp=drive_link)
+ Video Available [Drive](https://drive.google.com/file/d/1p9uDeAE1fcUKeLvf4auumHl_ksTOklIN/view?usp=drive_link)
   
 ## Use Cases
 
