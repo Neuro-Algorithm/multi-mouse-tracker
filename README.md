@@ -6,6 +6,10 @@ Multi-Animal Pose Estimation for Laboratory Wistar Rats
 
 This project implements state-of-the-art computer vision techniques using DeepLabCut to detect, track, and estimate poses of multiple Wistar rats simultaneously in video or image data. Specifically designed for laboratory behavioral neuroscience research, the system handles challenges such as occlusions, similar rat appearances, and crowded arenas to provide accurate keypoint localization for detailed behavioral analysis.
 
+Watch how all 25 body parts are tracked simultaneously
+  
+ Video Available [Drive](https://drive.google.com/file/d/1p9uDeAE1fcUKeLvf4auumHl_ksTOklIN/view?usp=drive_link)
+  
 ## Features
 
 - **Multi-Animal Detection**: Simultaneously detect and track multiple animals in a single frame
@@ -71,10 +75,7 @@ bodyparts:
   - whisker_pad_left
   - whisker_pad_right
     
-Watch how all 25 body parts are tracked simultaneously
-  
- Video Available [Drive](https://drive.google.com/file/d/1p9uDeAE1fcUKeLvf4auumHl_ksTOklIN/view?usp=drive_link)
-  
+
 ## Use Cases
 
 - **Behavioral Neuroscience**: Automated quantification of rat behavior in open field tests, elevated plus maze, social interaction chambers
